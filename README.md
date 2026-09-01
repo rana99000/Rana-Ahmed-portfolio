@@ -1,5 +1,3 @@
-# Rana-Ahmed-portfolio
-Personal portfolio website showcasing my projects, skills, education, and experience as a Software Engineer.
 # Rana Ahmed | Portfolio
 
 A personal portfolio website showcasing my skills, projects, education, and experience as a Software Engineer.
